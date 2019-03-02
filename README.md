@@ -27,7 +27,7 @@ source /tmp/pure_installer.fish; and install_pure
 ### [Fisher](https://github.com/jorgebucaran/fisher)
 
 ```fish
-fisher add rafaelrinaldi/pure
+fisher add flexzuu/pure
 ```
 
 ### [Oh My Fish!](https://github.com/oh-my-fish)
@@ -42,7 +42,7 @@ ln -s $OMF_PATH/themes/pure/conf.d/pure.fish ~/.config/fish/conf.d/pure.fish
 ### [Fundle](https://github.com/tuvistavie/fundle)
 
 ```fish
-fundle plugin rafaelrinaldi/pure;
+fundle plugin flexzuu/pure;
 fundle install;
 ```
 
